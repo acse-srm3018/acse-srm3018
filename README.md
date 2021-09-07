@@ -7,6 +7,8 @@
 - I write about machine learning, research and self-improvement on my [twitter][twitter]
 - I store my research notes on [Github][readings] and Notion
 
+---
+
 ### 📡 Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://www.linkedin.com/in/raha-moosavi-9ba72a53/@v3/icons/linkedin.svg" />][linkedin]
@@ -14,7 +16,7 @@
 
 <br/>
 
----
+
 
 ![Raha github stats](https://github-readme-stats.vercel.app/api?username=acse-srm3018&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues)
 
