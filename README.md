@@ -19,5 +19,5 @@
 
 [website]: https://acse-srm3018.github.io/
 [readings]: https://github.com/acse-srm3018/papers/issues
-[linkedin]: https://www.linkedin.com/in/raha-moosavi-9ba72a53/
+[linkedin]: https://www.linkedin.com/in/raha-moosavi-9ba72a53
 [github]: https://github.com/acse-srm3018
