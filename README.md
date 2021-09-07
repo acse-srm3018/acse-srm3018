@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Raha Moosavi - aka [Raha][website]
 
-## 🤠 I'm a Data Scientist, a graduate with Masters degree from Imperial College London!
+## 🤠 I'm a Data Scientist
 
+- A graduate with Masters degree from Imperial College London!
 - I'm currently working as a Machine learning research intern in TotalEnergies, applying machine learning on oil and gas reservoir simulation, it is a [Deep learning proxy model of reservoir simulation](https://github.com/acse-srm3018/DeeplearningProxy)
 - I write about machine learning, research and self-improvement on my [twitter][twitter]
 - I store my research notes on [Github][readings] and Notion
