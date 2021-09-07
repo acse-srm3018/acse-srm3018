@@ -11,7 +11,8 @@
 
 ### 📡 Connect with me:
 
-[<img align="left" alt="linkedin" width="22px" src="https://www.linkedin.com/in/raha-moosavi-9ba72a53@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][twitter]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br/>
